@@ -1,0 +1,108 @@
+Age_group,Gender,Occupation,Work_Place,Industry,Purchase_Frequency,Amount_Monthly,LB_consumer,Kering_customer,Customer_Segment,Purchase_Platform,AI_views,VS_Scenario,VS_Friendly,VS_Friendly_2,Outfit,CB_Exp_Boolean,CB_Exp,CB_Friendly,CB_Friendly_2,Tailored_Exp,Data_Privacy,VS_Friendly_binary,CB_Friendly_binary
+2,0,1,ESTP Cachan,Engineering,3,1,"['Christian Dior', 'Saint Laurent', 'Chanel']",1,"[4, 3]",[0.75],4,1,4,4,"[2, 3]",0,0.0,2,3,3,2,0,0
+2,0,1,ESSCA,Marketing,3,1,"['Christian Dior', 'Kenzo']",-1,"[7, 5, 4, 3]","[-1.0, 0.75]",4,1,4,5,"[1, 3, 4, 5]",1,4.0,5,4,5,3,0,1
+3,0,2,France,Finance / accounting ,2,2,['Christian Dior'],-1,"[5, 4, 3]","[-1.0, 0.75, 0.75]",5,1,4,3,"[1, 2, 3, 3, 4]",0,3.0,4,4,4,4,0,0
+2,0,1,ESSEC Business School,Business,3,2,"['Gucci', 'Chanel']",1,"[7, 5, 3]","[-1.0, 0.75, 0.75]",4,1,5,5,"[1, 2]",1,1.0,5,5,1,1,1,1
+2,0,1,LSE,Sociology,2,1,"['Celine', 'Givenchy']",-1,"[4, 3]","[-1.0, 0.75]",4,1,4,4,"[1, 2, 3, 4]",1,3.0,4,5,4,2,0,0
+2,0,1,LSE,International Relations,2,1,['Kenzo'],-1,"[4, 3]","[-1.0, 0.75]",3,1,5,5,"[2, 3, 4]",0,3.0,4,4,3,3,1,0
+2,0,1,Grenoble École de management,Business,3,3,"['Christian Dior', 'Gucci', 'Balenciaga', 'Chanel', 'Stella McCartney', 'Alexander McQueen', 'Celine', 'Kenzo']",1,"[7, 4, 3]",[-1.0],2,1,4,3,"[1, 2, 3, 4, 5]",0,0.0,3,3,4,3,0,0
+2,0,1,High school,Engineering,3,2,"['Gucci', 'Balenciaga', 'Chanel', 'Alexander McQueen']",1,"[4, 3]",[-1.0],3,1,4,4,"[2, 3]",0,0.0,4,4,3,2,0,0
+2,0,1,University of Nanterre - Paris X,Law- Economics,2,1,"['Saint Laurent', 'Balenciaga', 'Kenzo']",1,[3],[-1.0],5,1,5,5,"[1, 2, 3]",0,0.0,3,3,3,3,1,0
+2,0,3,Central Saint Martins ,Graphic design ,3,2,['Balenciaga'],1,"[4, 3]",[-1.0],3,1,4,5,[1],1,4.0,4,4,2,3,0,0
+2,0,3,Panthéon Sorbonne University ,Management ,2,2,"['Saint Laurent', 'Balenciaga']",1,[3],[-1.0],5,1,5,5,"[3, 4]",0,0.0,4,5,2,3,1,0
+1,0,1,High school,Economics & social sciences ,3,3,"['Saint Laurent', 'Alexander McQueen']",1,"[4, 3]",[-1.0],4,0,3,4,[4],0,0.0,2,4,3,1,0,0
+2,1,1,Arts et Métiers Paristech,Engineering,2,3,['Chanel'],-1,[3],"[-1.0, 0.75]",3,1,4,4,"[1, 2, 4]",0,0.0,3,4,4,3,0,0
+2,0,1,University of Bath,Environmental sector,3,2,['Kenzo'],-1,"[4, 3]",[0.75],3,1,5,4,"[1, 3]",1,4.0,4,4,5,3,1,0
+2,1,2,BNP Paribas Intern,Finance,1,1,['Chanel'],-1,[3],[-1.0],1,0,1,1,[0],0,0.0,1,1,3,1,0,0
+2,0,1,University of Bath,Politics & International Relations,2,2,['Chanel'],-1,"[3, 1]",[-1.0],5,1,5,5,"[1, 2, 3, 4, 0]",0,0.0,2,3,4,2,1,0
+2,0,1,business school ,Business,3,2,"['Gucci', 'Balenciaga', 'Chanel', 'Alexander McQueen']",1,[3],[-1.0],4,1,4,3,"[2, 3, 4]",0,0.0,4,5,3,4,0,0
+2,1,1,University of Bath ,Business,3,1,['Chanel'],-1,[3],[-1.0],3,0,4,3,"[1, 0]",1,5.0,4,4,3,2,0,0
+2,1,3,University of Bath ,Mechanical engineering ,2,2,"['Gucci', 'Saint Laurent', 'Kenzo']",1,"[5, 3]",[-1.0],4,1,5,5,"[1, 4]",0,3.0,3,4,4,4,1,0
+2,0,3,Paris College of Art ,Art,3,3,['None of the above'],0,"[7, 5, 4, 3]","[-1.0, 0.75]",2,1,1,3,"[1, 2, 0]",1,2.0,2,2,1,3,0,0
+2,0,1,University,Law,3,2,"['Christian Dior', 'Gucci', 'Saint Laurent', 'Balenciaga', 'Chanel', 'Alexander McQueen', 'Celine', 'Givenchy']",1,"[7, 3]","[-1.0, 0.75, 0.75]",3,1,5,5,"[1, 2, 3]",1,4.0,4,4,4,3,1,0
+4,0,2,Greentex ,Fashion,3,3,"['Christian Dior', 'Chanel']",-1,"[4, 3]",[-1.0],3,1,3,3,"[1, 3, 4]",0,3.0,3,3,3,1,0,0
+2,0,1,UCL ,Management ,2,1,['None of the above'],0,[3],[-1.0],3,1,3,4,"[2, 3, 4]",1,5.0,5,5,4,5,0,1
+2,1,1,Arts et Métiers Paristech,Industrial and Mechanical Engineering,2,1,['None of the above'],0,"[4, 3]",[0],3,1,4,4,[1],0,0.0,4,4,5,5,0,0
+2,0,1,UCL ,Classics,3,2,['None of the above'],0,"[5, 4, 3]",[-1.0],4,1,4,5,"[1, 3, 4]",0,0.0,4,5,4,4,0,0
+2,0,1,Université Panthéon-Assas Paris II ,Law,2,1,['None of the above'],0,"[4, 3]","[-1.0, 0.75]",5,1,5,5,"[2, 3, 4]",0,0.0,5,5,5,4,1,1
+2,0,1,In Paris,Accounting,1,2,"['Gucci', 'Balenciaga', 'Kenzo']",1,"[7, 5, 4, 3]",[-1.0],2,1,4,3,"[1, 2]",1,2.0,3,2,3,2,0,0
+2,0,1,LSE,History and IR ,2,1,['None of the above'],0,"[4, 3]",[-1.0],5,1,5,5,"[1, 2, 4]",1,4.0,4,4,4,1,1,0
+2,0,1,Université Panthéon-Assas Paris II ,Law,2,2,['None of the above'],0,"[4, 3]",[-1.0],2,1,2,2,"[1, 4]",0,0.0,2,4,3,1,0,0
+2,1,1,UCL,Management Science,3,3,"['Saint Laurent', 'Alexander McQueen', 'Kenzo']",1,"[7, 5, 4]","[-1.0, 0.75, 0.75]",3,1,5,5,[5],1,4.0,4,4,4,4,1,0
+2,0,1,University of Bath,Politics,2,2,['None of the above'],0,"[4, 3]",[-1.0],2,1,3,4,"[1, 2, 4]",0,0.0,4,4,3,2,0,0
+2,0,1,King’s College London ,Arts and Cultural Management ,3,3,['None of the above'],0,"[4, 3]",[0.75],3,1,3,3,"[1, 3, 5]",0,0.0,4,3,4,2,0,0
+2,0,1,UCL,Medicine,2,3,"['Christian Dior', 'Gucci', 'Chanel', 'Stella McCartney', 'Fendi', 'Celine']",1,"[7, 5, 4, 3]","[-1.0, 0.75, 0.75]",4,1,4,4,"[2, 3, 5]",1,4.0,4,3,5,4,0,0
+1,0,1,High school,Science,3,3,"['Christian Dior', 'Gucci', 'Saint Laurent', 'Balenciaga', 'Chanel', 'Alexander McQueen', 'Kenzo']",1,"[7, 4, 3]",[-1.0],4,1,5,5,"[3, 5]",0,0.0,3,3,2,3,1,0
+2,0,1,Assas,Law,2,1,['None of the above'],0,[3],[-1.0],4,1,2,2,"[1, 2, 3, 4]",1,2.0,2,2,3,1,0,0
+2,0,1,Hong Kong,Management ,3,2,['None of the above'],0,"[3, 1]","[-1.0, 0.75]",4,1,5,5,"[1, 3, 4, 5]",1,2.0,3,2,4,1,1,0
+4,0,2,France,Fashion jewelry ,2,2,"['Christian Dior', 'Gucci', 'Chanel', 'Kenzo']",1,[5],[-1.0],1,0,4,5,[4],0,0.0,1,1,1,1,0,0
+2,0,1,Wuhan University ,Languages (English and Chinese) ,3,1,['None of the above'],0,[3],"[-1.0, 0.75, 0]",1,1,4,4,"[1, 4]",0,3.0,2,3,4,4,0,0
+4,0,2,Paris,Import export,3,3,"['Gucci', 'Saint Laurent', 'Givenchy']",1,[7],[0.75],3,1,4,4,[2],0,0.0,4,3,5,1,0,0
+2,0,1,LSE,Entertainment media ,2,1,"['Gucci', 'Balenciaga', 'Alexander McQueen']",1,[4],"[-1.0, 0.75]",2,1,4,5,"[1, 3]",0,0.0,2,3,3,1,0,0
+2,0,1,Manchester Metropolitan University,Modern Languages,2,1,['None of the above'],0,[3],[-1.0],3,1,4,5,"[2, 4]",0,0.0,5,1,1,2,0,1
+2,0,1,Ie university ,Business administration ,3,2,['None of the above'],0,"[4, 3]",[-1.0],2,1,4,3,"[1, 2, 3]",0,0.0,3,3,3,2,0,0
+2,0,1,UCL,Anthropology,3,1,['None of the above'],0,[3],"[-1.0, 0.75]",4,1,4,5,[0],0,0.0,2,3,5,4,0,0
+2,0,1,UCL,Linguistics,2,1,"['Christian Dior', 'Chanel']",-1,"[5, 4, 3]",[-1.0],2,0,3,2,"[2, 4]",1,3.0,2,2,2,1,0,0
+2,1,1,UCL,Economics,2,1,['None of the above'],0,"[4, 3]","[0.75, 0.75]",5,1,5,5,"[1, 2, 0, 0]",1,4.0,4,4,4,4,1,0
+2,0,1,UCL,Scandinavian Studies,3,1,['None of the above'],0,[3],"[-1.0, 0.75]",3,1,3,4,"[1, 3, 3, 4]",0,0.0,1,1,3,1,0,0
+2,0,1,UCL,Physics,1,1,['None of the above'],0,"[3, 1]",[-1.0],3,1,4,4,"[1, 2, 4]",0,0.0,2,2,2,2,0,0
+2,0,1,UCL,BA Classics ,2,2,['None of the above'],0,"[3, 1]","[-1.0, 0.75]",4,1,4,4,"[2, 4]",0,0.0,3,3,4,4,0,0
+2,1,1,UCL,Computer Graphics,2,1,['None of the above'],0,"[3, 1]","[-1.0, 0.75]",5,0,4,5,"[1, 3, 3, 4]",1,2.0,4,2,2,3,0,0
+2,0,1,UCL,Politics,2,2,['None of the above'],0,"[5, 4, 3]","[-1.0, 0.75, 0.75]",4,1,4,4,"[1, 2, 3, 5]",0,0.0,4,3,5,4,0,0
+2,0,1,UCL,Social Anthropology and Art History,2,2,['None of the above'],0,"[4, 3]","[-1.0, 0.75, 0.75]",4,1,5,5,"[1, 4]",0,1.0,1,1,1,1,1,0
+2,0,2,Offblak,Marketing,3,3,"['Gucci', 'Balenciaga', 'Chanel', 'Kenzo']",1,"[7, 5, 4, 3]",[0.75],4,1,5,5,"[3, 5]",1,4.0,4,4,4,4,1,0
+2,1,1,UCL,Maths & Economics,3,3,"['Gucci', 'Saint Laurent', 'Balenciaga', 'Bottega Veneta']",1,"[5, 4, 3]","[-1.0, 0.75]",4,1,5,5,"[1, 2, 3, 4]",1,4.0,5,4,4,5,1,1
+2,1,1,UCL,Business and Tech,2,4,['None of the above'],0,"[5, 4]","[-1.0, 0.75]",4,1,5,5,"[1, 3, 4]",1,4.0,5,4,4,2,1,1
+1,1,1,UCL,Management Science,3,2,"['Christian Dior', 'Gucci', 'Saint Laurent', 'Balenciaga', 'Bottega Veneta', 'Kenzo', 'Givenchy']",1,"[7, 5, 4, 3]","[-1.0, 0.75, 0.75]",5,1,5,5,"[1, 2, 3, 4, 5]",1,3.0,5,5,3,2,1,1
+2,0,1,Union College (New York),Economics and Digital Art,2,2,['None of the above'],0,"[5, 3]","[-1.0, 0.75, 0.75]",4,1,5,5,"[1, 3, 4]",1,4.0,5,4,4,4,1,1
+2,0,3,Part time hospitality (off to work),"Work in hospitality, studied law",1,1,['None of the above'],0,"[3, 1]","[-1.0, 0.75, 0.75]",5,0,4,4,"[1, 2, 3, 4]",1,1.0,1,1,1,1,0,0
+2,0,1,UCL,Management Science,3,2,['None of the above'],0,"[5, 3]",[-1.0],4,1,5,5,"[1, 3, 4]",1,3.0,4,4,4,3,1,0
+2,0,1,Cornell University,Fashion Design Management ,2,3,"['Christian Dior', 'Gucci', 'Saint Laurent', 'Chanel']",1,"[7, 5, 4]","[-1.0, 0.75, 0.75]",3,1,4,4,"[1, 2, 3, 4]",0,0.0,5,4,4,4,0,1
+2,0,1,UCL,Law,2,1,['None of the above'],0,"[5, 3]",[-1.0],3,0,4,3,"[1, 4]",0,0.0,1,1,2,3,0,0
+2,1,1,UCL,Management,3,3,['None of the above'],0,"[7, 5]",[0.75],3,0,3,5,"[1, 3, 5]",1,5.0,5,5,4,5,0,1
+4,1,2,Palm three,Wholesale ,2,3,"['Christian Dior', 'Gucci', 'Saint Laurent']",1,"[5, 4, 3]",[-1.0],2,1,3,2,"[2, 4]",0,0.0,3,3,4,4,0,0
+2,1,1,King’s College London ,Politics and Religion ,3,3,"['Saint Laurent', 'Alexander McQueen']",1,"[7, 4]","[-1.0, 0.75]",5,0,5,5,"[1, 3, 5]",0,0.0,4,3,3,3,1,0
+2,1,1,LSE,Ppe,3,3,['None of the above'],0,"[4, 3]","[-1.0, 0.75]",3,1,5,4,"[1, 2, 4]",1,3.0,4,2,2,4,1,0
+2,1,1,"California State University, Northridge",Business,2,2,['Balenciaga'],1,[3],[-1.0],4,1,3,4,"[2, 3, 4]",0,0.0,4,4,4,3,0,0
+2,1,1,Descartes university,Pharmacy,2,1,['Gucci'],1,[3],[0.75],3,0,4,4,"[1, 3]",0,0.0,4,4,4,3,0,0
+2,0,1,UCL,Law,2,1,['None of the above'],0,[3],[-1.0],3,1,5,5,"[1, 2, 3]",0,0.0,3,4,3,2,1,0
+4,0,2,Prosodie Capgemini ,Software ,2,1,['None of the above'],0,[3],"[-1.0, 0.75]",3,0,4,3,[1],1,4.0,4,2,2,1,0,0
+2,0,1,UCL,Geography,2,2,['Kenzo'],-1,[4],[-1.0],3,0,3,3,"[1, 4, 0]",1,2.0,3,2,2,3,0,0
+2,0,1,LSE,Management,3,2,"['Christian Dior', 'Chanel']",-1,"[5, 4, 3]","[-1.0, 0.75]",4,1,4,4,"[1, 2, 3, 3, 4]",0,0.0,4,4,4,3,0,0
+2,0,1,UCL ,Linguistics student,3,2,['None of the above'],0,"[4, 3, 1]","[0.75, 0.75]",2,1,3,2,"[1, 3]",1,3.0,3,4,4,2,0,0
+2,0,1,UCL,History of Art,3,1,['None of the above'],0,"[5, 3, 1]","[-1.0, 0.75, 0.75]",3,1,4,4,[3],1,3.0,4,3,3,4,0,0
+4,0,2,"La Defense, Paris",Electricity,3,3,['None of the above'],0,[4],[-1.0],3,1,3,1,[1],0,3.0,3,3,3,3,0,0
+2,0,1,UCL,Modern languages,2,1,['None of the above'],0,[3],[-1.0],3,1,5,4,"[1, 3, 4]",1,3.0,4,4,4,4,1,0
+4,1,2,Home,Art craft ,2,1,['None of the above'],0,"[5, 4, 3]","[-1.0, 0.75]",2,0,2,2,"[4, 5]",0,0.0,2,2,1,1,0,0
+4,0,2,University of Nanterre - Paris X,Law,3,3,['None of the above'],0,[4],"[-1.0, 0.75, 0.75]",4,0,3,3,"[1, 2, 4]",0,0.0,3,3,2,2,0,0
+2,0,1,UCL,Brain sciences,2,1,['None of the above'],0,"[3, 1, 2, 0]",[-1.0],4,1,4,4,"[2, 3, 3]",1,2.0,4,3,4,4,0,0
+2,0,1,UCL,English Literature,2,1,['None of the above'],0,[2],"[-1.0, 0.75]",3,1,5,5,"[1, 4]",1,3.0,4,3,4,5,1,0
+2,1,1,New York Universiry Gallatin School of Individualized Study,Beauty Marketing ,2,2,['None of the above'],0,[4],"[-1.0, 0.75]",3,1,5,5,"[3, 5]",1,3.0,3,1,4,5,1,0
+2,1,1,UNSW Sydney,Information Systems,2,1,['None of the above'],0,[3],[-1.0],5,1,5,5,"[1, 3, 0]",1,4.0,5,4,5,3,1,1
+2,0,1,UCL,Psychology and language Sciences ,3,2,"['Christian Dior', 'Gucci', 'Chanel']",1,"[7, 5, 3, 1, 0]","[-1.0, 0.75, 0.75]",4,1,5,5,[3],0,3.0,4,4,5,4,1,0
+2,0,1,UCL,"Digital Media, Culture and Education",3,3,['Chanel'],-1,"[5, 4]","[-1.0, 0.75]",4,1,4,4,"[2, 3]",1,3.0,3,3,3,2,0,0
+2,0,1,UCL,Computer Science ,3,2,['Givenchy'],-1,"[5, 3, 1, 0]","[-1.0, 0.75, 0.75]",5,1,5,5,"[3, 4, 5]",1,4.0,4,4,5,4,1,0
+2,0,1,UCL ,Education ,3,1,['None of the above'],0,"[3, 1]","[-1.0, 0.75, 0.75]",3,1,4,4,[0],1,4.0,5,4,4,2,0,1
+2,1,1,UCL,Pharmacology,2,1,['None of the above'],0,"[4, 3]","[-1.0, 0.75]",4,0,4,5,"[2, 4]",1,5.0,5,5,3,3,0,1
+2,0,1,UCL,Chemistry,2,1,['None of the above'],0,"[5, 3, 0]",[-1.0],4,1,3,4,"[1, 2, 4]",0,0.0,4,3,5,4,0,0
+2,0,1,UCL,Science,3,2,['None of the above'],0,"[7, 4, 3]",[0.75],4,1,5,5,"[3, 0]",0,0.0,5,5,5,3,1,1
+4,0,2,Colt Technology services ,Telecommunication,3,3,['None of the above'],0,"[4, 0]",[-1.0],4,1,4,4,"[1, 2, 4]",0,0.0,2,3,2,1,0,0
+3,0,1,London College of Fashion,Fashion Design,3,3,['Givenchy'],-1,"[5, 4, 3, 2]","[-1.0, 0.75, 0.75]",4,1,4,4,"[3, 5]",0,0.0,4,3,3,3,0,0
+2,0,1,London College of Fashion,"Fashion, Fashion marketing",3,3,['None of the above'],0,"[5, 0]","[-1.0, 0.75, 0.75, 0]",4,1,5,5,"[2, 3]",1,3.0,5,5,3,3,1,1
+2,0,1,UCL,Economics,2,2,['Kenzo'],-1,"[3, 2, 0]","[-1.0, 0.75, 0.75]",4,1,5,5,"[1, 2, 3, 4]",1,3.0,3,3,5,4,1,0
+2,0,1,UCL,Archaeology,2,1,['None of the above'],0,"[1, 2]",[-1.0],4,1,4,5,"[2, 3, 4]",1,4.0,4,2,2,4,0,0
+2,0,1,UCL,Psychology,3,2,"['Christian Dior', 'Gucci', 'Saint Laurent', 'Balenciaga', 'Celine']",1,"[7, 5, 4, 3, 2, 0]","[-1.0, 0.75]",2,1,4,4,"[1, 3, 3, 4, 5]",1,3.0,4,4,4,3,0,0
+3,1,2,Paris,Fashion - luxury,3,2,"['Christian Dior', 'Saint Laurent', 'Kenzo', 'Givenchy']",1,"[7, 5]",[-1.0],4,1,4,4,"[1, 2]",0,0.0,4,4,3,1,0,0
+2,1,1,ENPC,Engineering,2,1,['None of the above'],0,"[5, 3]","[-1.0, 0.75]",4,1,5,4,"[1, 2]",1,3.0,4,2,3,1,1,0
+4,0,2,LTM Paris,Fashion and supply chain,3,3,['None of the above'],0,"[5, 4, 3]","[-1.0, 0.75]",4,1,4,4,"[1, 3, 4]",1,4.0,3,4,4,4,0,0
+3,0,2,Law,Administration,2,1,['None of the above'],0,[3],"[-1.0, 0.75, 0.75]",3,1,4,3,[4],0,0.0,2,3,4,2,0,0
+4,0,2,U de A,Sports,1,1,['None of the above'],0,"[1, 0]",[0],4,1,2,4,[1],1,3.0,2,2,3,1,0,0
+3,0,2,Town hall,Administration,3,2,['Gucci'],1,[3],"[0.75, 0.75]",3,1,4,4,[4],0,3.0,4,3,3,3,0,0
+3,0,2,Select fashion,Fashion ,1,1,['None of the above'],0,"[3, 1]","[-1.0, 0.75]",5,1,4,5,"[3, 3]",1,4.0,4,4,4,4,0,0
+4,0,2,Acumen,Social Development,2,1,['None of the above'],0,[0],[-1.0],3,1,4,5,[1],0,3.0,5,5,4,4,0,1
+3,0,3,Housewife,Not Applicable,2,1,['None of the above'],0,[3],"[-1.0, 0.75]",4,1,5,5,"[1, 2, 3, 3]",0,0.0,3,4,4,4,1,0
+4,0,2,SACM /Clarewood University ,Financial Analyst / MBA INTERNATIONAL BUSINESS AND FINANCE,2,2,['Chanel'],-1,[5],[-1.0],5,1,4,4,[4],1,4.0,4,4,4,5,0,0
+2,0,1,ESSCA,Finance,3,2,['None of the above'],0,"[4, 3, 1]",[-1.0],3,1,3,5,"[1, 3, 4]",0,4.0,3,3,3,3,0,0
+3,0,2,Paris,Garment,1,1,['Saint Laurent'],1,[3],[-1.0],3,1,4,4,"[2, 3, 3]",0,3.0,2,2,4,3,0,0
+2,0,1,UCL,Management science ,3,2,"['Gucci', 'Balenciaga', 'Chanel', 'Fendi', 'Kenzo']",1,"[7, 5, 4, 3]","[0.75, 0.75]",3,1,4,4,"[1, 3, 5]",0,2.0,2,3,4,4,0,0
+2,0,2,Work for a wholesale women’s clothing brand (Feelkoo),Fashion ready to wear,3,4,"['Christian Dior', 'Gucci', 'Saint Laurent', 'Chanel', 'Fendi', 'Givenchy']",1,"[7, 5, 4, 3, 2, 0]","[-1.0, 0.75]",2,0,5,2,[5],1,2.0,1,3,3,4,1,0
